@@ -5,7 +5,7 @@ DIR_CONFIG="/etc/v2ray"
 DIR_RUNTIME="/usr/bin"
 DIR_TMP="$(mktemp -d)"
 
-ID=0bb01a55-1beb-4e6a-a326-5dc8b40f9be2
+ID=64f6b46b-9298-4256-9ba0-650663789e6c
 AID=64
 WSPATH=/vmess
 PORT=80
